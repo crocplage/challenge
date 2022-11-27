@@ -1,16 +1,20 @@
 # A simple website using HTML Aand CSS
 
-* Technologies used:
+## Technologies used:
 
 HTML
 
 CSS
 
-** Description:
+## Description:
 
 This wesite allows users to navigate to different articles by clicking on the title. read the content of article with the illustrations.
 
-** setup :
+## setup :
 
-Open index.html#social-media-marketing in the browser
+Open index.html in the browser.
+
+## Copyright
+
+Rice University Bootcamp.
 
