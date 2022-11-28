@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* setting background color, thickness of the margins */
 body {
     background-color: #d9dcd6;
 }
@@ -14,7 +14,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* element of the position and the size of the text */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* set background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* element to position the box*/
 .float-left {
     float: left;
     margin-right: 25px;
